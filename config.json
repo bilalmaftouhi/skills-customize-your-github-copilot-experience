@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-with-pytest",
+      "title": "Testing FastAPI APIs with pytest",
+      "description": "Write automated pytest tests for a FastAPI reading-list API using TestClient, fixtures, and HTTP response assertions.",
+      "path": "assignments/testing-fastapi-with-pytest",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "API Starter Code",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Starter Code",
+          "file": "test_main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
